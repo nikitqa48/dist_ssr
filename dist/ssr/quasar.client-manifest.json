@@ -3,7 +3,7 @@
   "all": [
     "css/10.37c0ecf3.css",
     "css/11.484aade7.css",
-    "css/12.b00f4322.css",
+    "css/12.3660b915.css",
     "css/13.57acc51a.css",
     "css/14.11ff6388.css",
     "css/15.081d22cb.css",
@@ -148,7 +148,7 @@
     "image/zakat.png",
     "js/10.d191bd74.js",
     "js/11.4d1f6f52.js",
-    "js/12.4bec5365.js",
+    "js/12.d1328808.js",
     "js/13.4ec22a0f.js",
     "js/14.82b674fc.js",
     "js/15.639311a1.js",
@@ -162,7 +162,7 @@
     "js/7.39e8c704.js",
     "js/8.65018238.js",
     "js/9.15bf62f4.js",
-    "js/app.b487ead8.js",
+    "js/app.fce9822a.js",
     "js/vendor.a3661eec.js",
     "logo.png",
     "video/video_background.mp4",
@@ -172,12 +172,12 @@
     "css/vendor.453ff6c0.css",
     "js/vendor.a3661eec.js",
     "css/app.0e433876.css",
-    "js/app.b487ead8.js"
+    "js/app.fce9822a.js"
   ],
   "async": [
     "css/10.37c0ecf3.css",
     "css/11.484aade7.css",
-    "css/12.b00f4322.css",
+    "css/12.3660b915.css",
     "css/13.57acc51a.css",
     "css/14.11ff6388.css",
     "css/15.081d22cb.css",
@@ -192,7 +192,7 @@
     "css/9.6688fba8.css",
     "js/10.d191bd74.js",
     "js/11.4d1f6f52.js",
-    "js/12.4bec5365.js",
+    "js/12.d1328808.js",
     "js/13.4ec22a0f.js",
     "js/14.82b674fc.js",
     "js/15.639311a1.js",
@@ -453,7 +453,7 @@
       7,
       153
     ],
-    "bdfcde5a": [
+    "0125b568": [
       2,
       147
     ],
@@ -742,6 +742,10 @@
       10,
       156,
       25
+    ],
+    "f2e2efa4": [
+      2,
+      147
     ],
     "3be32e13": [
       16,
@@ -3350,10 +3354,6 @@
       28,
       27
     ],
-    "2822f3b5": [
-      2,
-      147
-    ],
     "2ff66660": [
       16,
       162,
@@ -5469,6 +5469,10 @@
       157,
       25
     ],
+    "8f704ddc": [
+      2,
+      147
+    ],
     "0cce81e0": [
       16,
       162,
@@ -5731,10 +5735,6 @@
       29,
       28,
       27
-    ],
-    "59dc4499": [
-      2,
-      147
     ],
     "43f2459f": [
       4,
