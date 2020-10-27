@@ -239,8 +239,8 @@ const settings = {
     "max": 1000,
     "maxAge": 900000
   },
-  "debug": false,
-  "publicPath": "/"
+  "publicPath": "/",
+  "debug": false
 }
 
 const doubleSlashRE = /\/\//
